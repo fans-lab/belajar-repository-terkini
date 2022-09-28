@@ -1,8 +1,10 @@
 body {
   background-color: brown;
   color: aqua;
+  border: 1px solid black;
 }
 
 .feature-a {
   color: chocolate;
+  font-weight: 700;
 }
