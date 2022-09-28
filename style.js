@@ -1,1 +1,0 @@
-console.log("Ini merupakan Testing dari Feature A");
